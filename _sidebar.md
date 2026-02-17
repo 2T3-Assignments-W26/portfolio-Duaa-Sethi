@@ -2,7 +2,7 @@
   - [Welcome](README.md)
 
 - Cheat Sheets
-  - [Git](cheatsheets/git.md)
-  - [PowerShell](cheatsheets/powershell.md)
+  - [Git](Cheatsheet/git.md)
+  - [PowerShell](Cheatsheet/powershell.md)
 
 - About Me
